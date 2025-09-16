@@ -3,7 +3,7 @@ title: "Pressemitteilung: Wie KI die Museen von morgen gestaltet"
 meta_title: "KI in Museen"
 description: "this is meta description"
 date: 2025-09-16
-image: "images/image-placeholder.png"
+image: "/images/image-placeholder.png"
 categories: ["News"]
 author: "Sascha Koch"
 tags: ["News", "Pressemitteilung"]

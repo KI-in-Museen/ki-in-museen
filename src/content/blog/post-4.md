@@ -3,7 +3,7 @@ title: "Dummy Post 3"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "images/image-placeholder.png"
+image: "/images/image-placeholder.png"
 categories: ["Metadaten"]
 author: "John Doe"
 tags: ["Metadaten", "Museumsbestände"]
