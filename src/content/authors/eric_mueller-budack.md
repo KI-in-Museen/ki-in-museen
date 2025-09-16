@@ -1,7 +1,7 @@
 ---
 title: Eric Müller-Budack
 email: eric.mueller@tib.eu
-image: "/images/eric_mueller-budack.webp"
+image: "images/eric_mueller-budack.webp"
 description: Dr. Eric Müller-Budack
 social:
   - name: home
