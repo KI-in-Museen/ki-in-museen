@@ -3,7 +3,6 @@
 # build output
 dist/
 .output/
-.json/
 
 # dependencies
 node_modules/
