@@ -1,5 +1,10 @@
 html {
   @apply text-base-sm md:text-base;
+  scroll-behavior: smooth;
+}
+
+[id] {
+  scroll-margin-top: 120px;
 }
 
 body {
@@ -56,4 +61,14 @@ code {
 
 blockquote > p {
   @apply my-0!;
+}
+
+/* Ensure ordered lists show numbers */
+ol {
+  list-style-type: decimal;
+  padding-left: 1.5em;
+}
+
+ol li {
+  list-style-position: outside;
 }

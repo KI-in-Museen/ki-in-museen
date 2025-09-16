@@ -65,7 +65,7 @@ Gefördert wird das Vorhaben mit rund 2,25 Millionen Euro vom Niedersächsischen
 
 Das Forschungsprojekt gliedert sich in vier Arbeitspakete, die jeweils unterschiedliche Herausforderungen im Museumsbereich aufgreifen. 
 
-1. [Provenienzforschung](#Provenienzforschung)
-2. [Digitale Erschließung](#Digitale-Erschließung)
-3. [Anreicherung von Metadaten](#Anreicherung-von-Metadaten)
-4. [Betriebsmodelle für die Praxis](#Betriebsmodelle-fuer-die-Praxis)
+1. [**Provenienzforschung**](#provenienzforschung)
+2. [**Digitale Erschließung**](#digitale-erschließung)
+3. [**Anreicherung von Metadaten**](#anreicherung-von-metadaten)
+4. [**Betriebsmodelle für die Praxis**](#betriebsmodelle-für-die-praxis)
