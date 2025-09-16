@@ -2,9 +2,9 @@
   "site": {
     "title": "KI in Museen",
     "base_url": "https://ki-in-museen.github.io",
-    "base_path": "",
+    "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
+    "favicon": "images/favicon.png",
     "logo": "",
     "logo_darkmode": "",
     "logo_width": "150",
