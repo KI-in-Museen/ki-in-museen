@@ -1,5 +1,5 @@
 ---
-title: "Authors"
-meta_title: ""
-description: "this is meta description"
+title: "Verbundpartner"
+meta_title: "KI in Museen | Verbundpartner"
+description: "Verbundpartner im Projekt KI in Museen"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Blog Posts"
-meta_title: ""
-description: "this is meta description"
+title: "News"
+meta_title: "KI in Museen | News"
+description: "News des Projektes KI in Museen"
 ---

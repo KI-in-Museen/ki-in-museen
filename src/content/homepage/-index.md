@@ -1,53 +1,58 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
-  image: "/images/banner.png"
+  title: "KI in Museen (KiM)"
+  content: "Wie KI die Museen von morgen gestaltet"
+  image: "/images/qwen-image-AImuseum_banner_small.png"
   button:
-    enable: true
+    enable: false
     label: "Get Started For Free"
     link: "https://github.com/zeon-studio/astroplate"
 
 # Features
 features:
-  - title: "What's Included in Astroplate"
+  - title: "Provenienzforschung"
     image: "/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+    content: "Oft stammen Exponate aus problematischen Kontexten, etwa aus der NS-Zeit oder aus kolonialen Zusammenhängen. KI wird in diesem Arbeitspaket dafür eingesetzt, große Datenmengen schneller zu sichten, Muster zu erkennen und Hinweise auf solche Fälle zu liefern. Gleichzeitig bleibt die Rolle der Fachwissenschaftler_innen unverzichtbar: Sie bewerten die Ergebnisse und stellen sicher, dass die KI-Anwendungen korrekt eingesetzt werden."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Astro and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Stichwort 1"
+      - "Stichwort 2"
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Astro"
+  - title: "Digitale Erschließung"
     image: "/images/service-2.png"
-    content: "Astro is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Einige Sammlungen wurden bislang nur in kleinen Teilen durch intensiven manuellen Aufwand erfasst. Mit aktuellen KI-Methoden sollen Bilder und Artefakte automatisch kategorisieren und beschrieben werdeb. Kombiniert mit effizienten Such- und Visualisierungsmethoden ermöglichen diese Ansätze Fachleuten eine schnelle Überprüfung und Validierung der Vorschläge. Dies ermöglicht eine systematische Erschließung großer Bestände und verbessert die Durchsuchbarkeit und Exploration von Museumsdaten."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "KI-Methoden zur digitalen Erschließung von Museumbeständen"
+      - "Effiziente Such- und Visualisierungsmethoden"
+      - "Systematische Erschließung, Durchsuchbarkeit und Exploration von Museumsdaten"
     button:
       enable: true
-      label: "Get Started Now"
+      label: "Mehr"
       link: "https://github.com/zeon-studio/astroplate"
 
-  - title: "The Top Reasons to Choose Astro for Your Next Project"
+  - title: "Anreicherung von Metadaten"
     image: "/images/service-3.png"
-    content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: " In einer Pilotphase konzentrieren sich die Forschenden auf antike Skulpturen. Texte aus der Archäologie und historische Grabungsberichte werden automatisch ausgewertet, sodass die Objekte zusätzliche Informationen erhalten, beispielsweise über Fundorte oder historische Bezüge. Diese Daten werden anschließend in digitale Systeme eingespeist und sind damit leichter nutzbar"
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Astro a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Stichwort 1"
+      - "Stichwort 2"
     button:
       enable: false
       label: ""
       link: ""
+
+  - title: "Betriebsmodelle für die Praxis"
+    image: "/images/service-1.png"
+    content: "Langfristig sollen die neuen Werkzeuge nicht im Labor bleiben, sondern ihren Weg in den Museumsalltag finden. Dazu braucht es tragfähige Konzepte für Technik und Organisation. Getestet wird dies unter anderem auf der KI-Plattform CoSAIR der Jade Hochschule."
+    bulletpoints:
+      - "Stichwort 1"
+      - "Stichwort 2"
+    button:
+      enable: false
+      label: "Get Started Now"
+      link: "#"
 ---

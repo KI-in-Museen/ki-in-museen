@@ -4,7 +4,7 @@ import ImageMod from "./ImageMod.astro";
 import Social from "./Social.astro";
 
 const { data } = Astro.props;
-const { title, image, social } = data.data;
+const { title, position, institute, image, social } = data.data;
 ---
 
 <div class="rounded bg-light p-8 text-center dark:bg-darkmode-light">
@@ -24,7 +24,7 @@ const { title, image, social } = data.data;
     <a href={`/authors/${data.id}`}>{title}</a>
   </h4>
   <p class="mb-4">
-    {plainify(data.body?.slice(0, 100))}
+    {plainify(data.body)}
   </p>
   <Social source={social} className="social-icons" />
 </div>
