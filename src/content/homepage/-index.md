@@ -30,7 +30,7 @@ features:
       - "Effiziente Such- und Visualisierungsmethoden"
       - "Systematische Erschließung, Durchsuchbarkeit und Exploration von Museumsdaten"
     button:
-      enable: true
+      enable: false
       label: "Mehr"
       link: "https://github.com/zeon-studio/astroplate"
 
@@ -56,3 +56,16 @@ features:
       label: "Get Started Now"
       link: "#"
 ---
+
+Museen bewahren nicht nur wertvolle Objekte, sie sind auch Orte des Wissens. Doch ein Großteil dieses Wissens bleibt bislang im Verborgenen: Viele Sammlungen sind nur unvollständig dokumentiert, Herkunftsgeschichten sind schwer nachzuvollziehen und die vorhandenen Daten sind häufig nicht miteinander verknüpft. Mithilfe von Künstlicher Intelligenz (KI) soll die Erschließung, Analyse und Präsentation von Museumsdaten in den kommenden zwei Jahren Forschungsprojekt **KI in Museen** entscheidend vorangebracht werden.
+
+Gefördert wird das Vorhaben mit rund 2,25 Millionen Euro vom Niedersächsischen Ministerium für Wissenschaft und Kultur und von der VolkswagenStiftung. Die Jade Hochschule forscht zusammen mit der Verbundzentrale des GBV, der Universität Göttingen, der Leuphana University Lüneburg und der Technischen Informationsbibliothek (TIB) daran, wie Museumsdaten mithilfe von KI erschlossen werden können. Das Projekt markiert einen weiteren Schritt in der digitalen Transformation von Kulturgütern. Ziel ist es, Museumsobjekte für die Forschung und die breite Öffentlichkeit besser zugänglich zu machen.
+
+### Projektziele
+
+Das Forschungsprojekt gliedert sich in vier Arbeitspakete, die jeweils unterschiedliche Herausforderungen im Museumsbereich aufgreifen. 
+
+1. [Provenienzforschung](#Provenienzforschung)
+2. [Digitale Erschließung](#Digitale-Erschließung)
+3. [Anreicherung von Metadaten](#Anreicherung-von-Metadaten)
+4. [Betriebsmodelle für die Praxis](#Betriebsmodelle-fuer-die-Praxis)

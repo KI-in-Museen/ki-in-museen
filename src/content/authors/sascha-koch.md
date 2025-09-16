@@ -1,20 +1,19 @@
 ---
 title: Sascha Koch
-email: samwilson@email.com
-image: "/images/avatar.png"
+institute: "Jade Hochschule"
+email: sascha.koch@jade-hs.de
+image: "/images/sascha-koch.jpg"
 description: this is meta description
 social:
-  - name: github
-    icon: FaGithub
-    link: https://github.com
-
-  - name: twitter
-    icon: FaTwitter
-    link: https://twitter.com
-
+  - name: home
+    icon: FaHouse
+    link: https://iapg.jade-hs.de/personen/koch
+  - name: email
+    icon: FaEnvelope
+    link: mailto:sascha.koch@jade-hs.de
   - name: linkedin
     icon: FaLinkedin
-    link: https://linkedin.com
+    link: https://www.linkedin.com/in/saschakoch
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+Professor für Informatik mit Schwerpunkt Datenanalyse

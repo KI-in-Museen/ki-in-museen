@@ -27,4 +27,12 @@ export const getSinglePage = async <C extends CollectionKey>(
 
   return removeDrafts;
 };
+
+export async function getInstitutes() {
+  const institutes = await getCollection("institutes");
+  return institutes.map((entry) => ({
+    ...entry.data,
+    slug: entry.slug,
+  }));
+}
 ---

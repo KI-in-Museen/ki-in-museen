@@ -22,6 +22,7 @@ const authorsCollection = defineCollection({
   loader: glob({ pattern: "**/*.{md,mdx}", base: "src/content/authors" }),
   schema: z.object({
     title: z.string(),
+    institute: z.string().optional(), // Ensure this field is included
     meta_title: z.string().optional(),
     email: z.string().optional(),
     image: z.string().optional(),
@@ -38,6 +39,16 @@ const authorsCollection = defineCollection({
       )
       .optional(),
     draft: z.boolean().optional(),
+  }),
+});
+
+// Institute collection schema
+const institutesCollection = defineCollection({
+  loader: glob({ pattern: "**/*.{md,mdx}", base: "src/content/institutes" }),
+  schema: z.object({
+    title: z.string(),
+    logo: z.string().optional(),
+    description: z.string().optional(),
   }),
 });
 
@@ -153,6 +164,7 @@ export const collections = {
   homepage: homepageCollection,
   blog: blogCollection,
   authors: authorsCollection,
+  institutes: institutesCollection,
   pages: pagesCollection,
   about: aboutCollection,
   contact: contactCollection,
